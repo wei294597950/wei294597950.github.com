@@ -1,0 +1,27 @@
+---
+layout:     post
+title:      "开篇之作"
+subtitle:   "记录第一次jekyll"
+date:       2017-08-04
+author:     "徐维"
+header-img: "img/post-bg-04.jpg"
+---
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+You can align cell contents with syntax like this:
+
+| Left Aligned  | Center Aligned  | Right Aligned |
+|:------------- |:---------------:| -------------:|
+| col 3 is      | some wordy text |         $1600 |
+| col 2 is      | centered        |           $12 |
+| zebra stripes | are neat        |            $1 |
+
+
+
+
+
+
