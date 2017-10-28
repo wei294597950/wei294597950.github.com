@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "数据仓库"
+subtitle:   "记录第一次jekyll"
+date:       2017-10-28
+author:     "徐维"
+header-img: "img/post-bg-04.jpg"
+---
+
+<p>数据</p>
+
+
+教育  | 大数据独角兽还未出现
+------------- | -------------
