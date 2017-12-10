@@ -6,4 +6,4 @@ date:       2017-12-10
 author:     "徐维"
 header-img: "img/mmexport1512392828029.jpg"
 ---
-![](../img/img-1.jpg )
+![](/img/img-1.jpg )
