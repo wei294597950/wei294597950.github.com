@@ -4,5 +4,5 @@ title:      "读《平凡的世界》"
 subtitle:   "我以为我们又要错过这场大雨"
 date:       2017-12-10
 author:     "徐维"
-header-img: "img/.jpg"
----img-1
+header-img: "img/img-1.jpg"
+---
