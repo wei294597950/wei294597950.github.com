@@ -28,8 +28,8 @@ layout: default
 				{{ content }}
 
                 <hr>
-
-                <ul class="pager">
+            </div>
+                            <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
                         <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
@@ -41,8 +41,6 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-
-            </div>
         </div>
     </div>
 </article>
