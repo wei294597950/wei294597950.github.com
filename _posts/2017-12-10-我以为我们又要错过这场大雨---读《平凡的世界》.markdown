@@ -6,10 +6,9 @@ date:       2017-12-10
 author:     "徐维"
 header-img: "img/mmexport1512392828029.jpg"
 ---
-<div >
-<div style="float:left;"><img src="https://wei294597950.github.io/img/img-1.jpg" width = "200" height = "" /></div>
+
 <div style="float:left;"><img src="https://wei294597950.github.io/img/img-1.jpg" width = "200" height = "" /></div>
 <div style="float:left;">浮动</div>
-</div>
+
 
 
