@@ -6,4 +6,6 @@ date:       2017-12-10
 author:     "徐维"
 header-img: "img/mmexport1512392828029.jpg"
 ---
+<img src="/img/img-1.jpg" width = "720" height = "300" alt="图片名称" align=center />
+
 ![](/img/img-1.jpg )
