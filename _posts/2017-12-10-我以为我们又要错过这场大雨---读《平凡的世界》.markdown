@@ -6,3 +6,4 @@ date:       2017-12-10
 author:     "徐维"
 header-img: "img/img-1.jpg"
 ---
+![alt text](../img/img-1.jpg "Title")
