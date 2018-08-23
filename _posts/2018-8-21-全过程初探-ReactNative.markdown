@@ -18,7 +18,7 @@ cd projectname
 npm  i
 react-native run-android
 ```
-> **错误处理**
+错误处理
 - > unable to reslove modele 'AccessibilityInfo'
 >主要原因可能是react-native和react-native-cli的版本问题，可行解决方案是
 
