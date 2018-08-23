@@ -44,6 +44,8 @@ cd android
 - 状态管理器：redux包括connect,mapstatetoprops,mapactiontoprops(将state和action绑定到组件上)、react-thunk和react-saga(用于异步action)
 - 导航组件：react-navigation 、react-native-side-menu
 - 图标组件：react-native-vector-icons
+
+
 ```
 react-navigation使用其中的抽屉导航DrawerNavigation可能会遇到问题：
 'drawerOpen'等打开或关闭抽屉的接口在新版中已移除,更改为
