@@ -21,4 +21,4 @@ header-img: "img/20180823header.jpg"
 
 -------
  **人生无限**
- > ![image](../img/newlife.jpg)
+ > ![image]("{{ site.baseurl }}/img/newlife.jpg" )
