@@ -8,8 +8,8 @@ header-img: "img/mmexport1512392828029.jpg"
 ---
 # 三级级联选择器 react 与 vue 实现
 ##### vue 双向绑定实现更为方便，将select标签的v-model绑定选择的值,将option的value绑定选择的值，实现级联
-##### react
-## react 是通过select的onchang事件setstate修改状态，来实现级联
+##### react 是通过select的onchang事件setstate修改状态，来实现级联
+## react
 
 ```
 import React from 'react';
