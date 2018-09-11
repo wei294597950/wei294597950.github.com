@@ -4,7 +4,7 @@ title:      "vue使用echarts"
 subtitle:   "值得记录"
 date:       2018-09-11
 author:     ""
-header-img: "img/echarts.jpg"
+header-img: "img/mutiEcharts.jpg"
 ---
 >基本使用
 
@@ -20,6 +20,7 @@ this.mychart.setOption(option, true);
 ```
 > 主题变换
 
+![image](/img/echarts.jpg)
 ```
 下载主题  http://echarts.baidu.com/download-theme.html
 //在main.js入口文件中引入
