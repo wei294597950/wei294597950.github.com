@@ -2,7 +2,7 @@
 layout:     post
 title:      "vue使用echarts"
 subtitle:   "值得记录"
-date:       2018-09-04
+date:       2018-09-11
 author:     ""
 header-img: "img/echarts.jpg"
 ---
