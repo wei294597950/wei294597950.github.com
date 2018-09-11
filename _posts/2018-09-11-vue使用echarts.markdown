@@ -20,7 +20,7 @@ this.mychart.setOption(option, true);
 ```
 > 主题变换
 
-![image]('/img/echarts.jpg')
+![image](https://github.com/wei294597950/wei294597950.github.com/blob/master/img/echarts.jpg?raw=true)
 ```
 下载主题  http://echarts.baidu.com/download-theme.html
 //在main.js入口文件中引入
